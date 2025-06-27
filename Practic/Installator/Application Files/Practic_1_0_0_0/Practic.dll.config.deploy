@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<connectionStrings>
+		<add name="DefaultConnection"
+             connectionString="Server=172.20.7.53;Database=db3996_20;User Id=root;Password=root;" />
+	</connectionStrings>
+</configuration>
